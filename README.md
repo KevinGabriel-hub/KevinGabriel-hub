@@ -1,6 +1,6 @@
 # Kevin Gabriel
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a strong background in both front-end and back-end technologies. My expertise lies in creating scalable, efficient applications and leveraging modern frameworks to deliver high-quality software solutions.
+Welcome to my second GitHub profile! I'm a passionate Full-Stack Developer with a strong background in both front-end and back-end technologies. My expertise lies in creating scalable, efficient applications and leveraging modern frameworks to deliver high-quality software solutions.
 
 ## About Me
 
@@ -15,10 +15,12 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a stron
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) 
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=Laravel&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=TailwindCSS&logoColor=white)
 
 ### Database Management
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
@@ -29,10 +31,15 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a stron
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-363636?style=flat-square&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Blockchain Development
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat-square&logo=ethereum&logoColor=white) 
+
+### APIs
+![GraphQL](https://img.shields.io/badge/-GraphQL-0C0D0E?style=flat-square&logo=GraphQL&logoColor=white) 
+![RESTful API](https://img.shields.io/badge/-RESTful_API-008C45?style=flat-square&logo=api&logoColor=white) 
 
 ### Methodologies
 ![Agile](https://img.shields.io/badge/-Agile-0C0D0E?style=flat-square&logo=agile&logoColor=white) 
