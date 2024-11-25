@@ -78,21 +78,6 @@ Built an intuitive healthcare platform with **Django** and **React**, streamlini
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGabriel-hub&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Kevin's Top Languages" width="48%"/>
 </p>
 
----
-
-### 🚀 Contributions Over the Year
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=KevinGabriel-hub&theme=radical" alt="Most Commit Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/years-activity.svg?username=KevinGabriel-hub&theme=radical" alt="Yearly Activity" width="48%" />
-</p>
-
----
-
-### 🏆 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=KevinGabriel-hub&theme=github&hide_border=true" alt="Kevin's Contribution Graph" width="100%" />
-</p>
 
 
 ---
