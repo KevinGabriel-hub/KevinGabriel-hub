@@ -64,14 +64,6 @@ Developed a secure payment system using **Spring Boot** and **GraphQL**, enablin
 ### 🏥 [**Healthcare Management System**](#)  
 Built an intuitive healthcare platform with **Django** and **React**, streamlining medical workflows and patient records.  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinGabriel-hub&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Kevin's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGabriel-hub&theme=radical&hide_border=true" alt="Kevin's GitHub streak" width="48%"/>
-</p>
 
 ### Most Used Languages  
 <p align="center">
